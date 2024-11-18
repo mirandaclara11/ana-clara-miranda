@@ -1,0 +1,26 @@
+body{
+    font-family: "Concert One", sans-serif;
+background: blue;
+color: aliceblue;
+margin: 0px;
+margin-bottom: 100px;
+}
+header{
+    color: aqua;
+    border-bottom: 3px solid black;
+    font-size: 32px;
+    padding: 15px;
+}
+h1{
+font-size: 35px;
+}
+.chamada{
+    background: rgb(108, 108, 214);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamda texto{
+    margin-right: 5px;
+}
