@@ -35,7 +35,7 @@ font-size: 35px;
     gap: 20px;
 }
 .categoria-videos img{
-    height: 20px;
+    height: 200px;
     opacity: 0.5;
 }
 .categoria-videos img:hover{
